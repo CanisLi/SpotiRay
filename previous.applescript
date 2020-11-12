@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title previous
+# @raycast.title Previous
 # @raycast.mode silent
 #
 # Optional parameters:
