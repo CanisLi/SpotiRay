@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title play pause
+# @raycast.title Play Pause
 # @raycast.mode silent
 #
 # Optional parameters:
