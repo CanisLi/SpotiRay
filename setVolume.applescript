@@ -22,7 +22,7 @@ on run argv
 		end if
     on error errorMsg
         log errorMsg as text
-	end try
+    end try
 end run
 
 
